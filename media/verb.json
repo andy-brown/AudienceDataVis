@@ -1,0 +1,19 @@
+{
+	"title": "Test data from Edinburgh Festival 2015",
+	"xOffset": 138,
+	"xMax": 972,
+	"yMin": 216,
+	"yMax": 518,
+	"graphElId": "figure_1",
+	"timeOffset": 0,
+	"graphTimespan": 3400,
+	"data": "media/TheVerb/engagement_data.json",
+	"graph": "media/TheVerb/Verb2.svg",
+	"video": "media/TheVerb/video.mp4",
+	"explanation": "A mashup of data from different sources to test visualisations of engagement data.",
+	"thumbnails": "media/thumbs/",
+	"numThumbs": 3400,
+	"thumbRate": 50,
+	"videoFrameRate": 50,
+	"aspect": 2
+}
